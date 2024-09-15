@@ -1,4 +1,4 @@
-## <img src="https://slackmojis.com/emojis/31011-meow_bongo-keyboard/download" width="30"/> Olá, me chamo Cristofer Eduardo.
+## <img src="https://slackmojis.com/emojis/31011-meow_bongo-keyboard/download" width="30"/> Olá, eu sou Cristofer Eduardo.
 
 - 🌐 Cursando Desenvolvimento de Sistemas na ETEC Dr. Demétrio Azevedo Jr, em Itapeva, SP, e sou apaixonado por tecnologia. 
 - 👆 Ele/dele.
