@@ -5,7 +5,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=letCristoferAlves&show_icons=true&theme=date_night)](https://github.com/letCristoferAlves/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=letCristoferAlves1&layout=compact&theme=date_night)
-## <img src="https://slackmojis.com/emojis/10521-meow_code/download" width="30"/> Estou estudando 
+## <img src="https://slackmojis.com/emojis/10521-meow_code/download" width="30"/> Estou Estudando 
 <div style="display: inline_block">
   <img align="center" alt="Cris-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cris-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
