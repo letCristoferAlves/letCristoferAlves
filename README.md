@@ -10,7 +10,8 @@
   <a href="https://g.co/kgs/qgv5XEf" target="_blank"><img align="center" alt="Cris-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
   <a href="https://g.co/kgs/tWu9QsQ" target="_blank"><img align="center" alt="Cris-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <a href="https://g.co/kgs/k25AJga" target="_blank"><img align="center" alt="Cris-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-  <a href="https://g.co/kgs/PA6bvQ8" target="_blank"><img align="center" alt="Cris-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"></a>          
+  <a href="https://g.co/kgs/PA6bvQ8" target="_blank"><img align="center" alt="Cris-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"></a>
+  <a href="https://g.co/kgs/TUh5s3b" target="_blank"><img align="center" alt="Cris-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"></a>
 </div>
 
 ## <img src="https://slackmojis.com/emojis/47414-meow_li_detective/download" width="30"/> Redes Sociais 
